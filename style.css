@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: white;
+    background: pink;
     color: #222;
     font-family: Georgia, "Times New Roman", serif;
     line-height: 1.6;
@@ -45,7 +45,7 @@ nav a:hover {
 }
 
 .photo img {
-    width: 220px;
+    width: 400px;
     border: 1px solid #ccc;
 }
 
