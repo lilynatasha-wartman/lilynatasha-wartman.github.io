@@ -61,7 +61,8 @@ nav a:hover {
 }
 
 .conference-photo img {
-    width: 300px;
+    text-align: center;
+    width: 500px;
     height: auto;
     
 }
