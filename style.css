@@ -17,7 +17,10 @@ header {
     margin-bottom: 30px;
     background-color: pink; /* dark banner */
     color: brown;
-    padding: 30px 50px;
+    padding: 20px 40px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
     font-family: Arial, sans-serif;
     }
 }
@@ -25,7 +28,8 @@ header {
 h1 {
     font-size: 2.2rem;
     margin-bottom: 10px;
-    font-weight: normal;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
 }
 
 nav {
@@ -50,7 +54,7 @@ nav a:hover {
 }
 
 .photo img {
-    width: 400px;
+    width: 300px;
     border: 1px solid #ccc;
 }
 
