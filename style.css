@@ -59,6 +59,9 @@ nav a:hover {
     height: auto;
 }
 
+.conference-photo {
+    text-align: center; /* centers image */
+}
 .conference-photo img {
     text-align: center;
     width: 500px;
