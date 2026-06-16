@@ -98,3 +98,16 @@
           color: #fff;
           text-decoration: underline;
         }
+
+        .photo, .bio {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.photo {
+  width: 300px;
+}
+
+.bio {
+  width: calc(100% - 340px); /* leaves space for image + gap */
+}
