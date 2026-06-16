@@ -4,7 +4,6 @@ body {
     background: #FFDEF9;
     color: #222;
     font-family: Georgia, "Times New Roman", serif;
-    line-height: 2;
 }
 
 .container {
@@ -43,7 +42,7 @@ nav a {
     color: white;
     text-decoration: none;
     margin-right: 18px;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 nav a:hover {
