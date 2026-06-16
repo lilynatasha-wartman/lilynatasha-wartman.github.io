@@ -53,12 +53,15 @@ nav a:hover {
     margin-bottom: 40px;
 }
 
-.photo img {
-    width: 110px;
+.profile-photo img {
+    width: 350px;
     height: auto;
-    border: 1px solid #ccc;
 }
 
+.conference-photo img {
+    width: 150px;
+    height: auto;
+}
 .bio {
     flex: 1;
 }
