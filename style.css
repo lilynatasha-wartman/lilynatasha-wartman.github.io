@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: pink;
+    background: white;
     color: #222;
     font-family: Georgia, "Times New Roman", serif;
     line-height: 1.6;
@@ -15,8 +15,8 @@ body {
 
 header {
     margin-bottom: 30px;
-    background-color: #171744; /* dark banner */
-    color: white;
+    background-color: pink; /* dark banner */
+    color: brown;
     padding: 30px 50px;
     font-family: Arial, sans-serif;
     }
