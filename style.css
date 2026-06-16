@@ -15,8 +15,8 @@ body {
 
 header {
     margin-bottom: 30px;
-    background-color: pink; /* dark banner */
-    color: brown;
+    background-color: blue; /* dark banner */
+    color: white;
     padding: 20px 40px;
     position: sticky;
     top: 0;
@@ -59,7 +59,7 @@ nav a:hover {
 }
 
 .conference-photo img {
-    width: 150px;
+    width: 300px;
     height: auto;
 }
 .bio {
