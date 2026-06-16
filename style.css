@@ -55,6 +55,7 @@ nav a:hover {
 
 .photo img {
     width: 110px
+    height: auto;
     border: 1px solid #ccc;
 }
 
