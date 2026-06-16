@@ -61,7 +61,15 @@ nav a:hover {
 .conference-photo img {
     width: 300px;
     height: auto;
+    
 }
+
+figcaption {
+    margin-top: 8px;
+    font-style: italic;
+    color: gray;
+  }
+
 .bio {
     flex: 1;
 }
