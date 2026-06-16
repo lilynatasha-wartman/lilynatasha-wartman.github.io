@@ -37,7 +37,9 @@ nav {
 }
 
 nav a {
-    color: #0044aa;
+    font-family: Arial, sans-serif;
+    font-weight: bold; 
+    color: white;
     text-decoration: none;
     margin-right: 18px;
 }
