@@ -54,12 +54,12 @@ nav a:hover {
 }
 
 .profile-photo img {
-    width: 100px;
+    width: 300px;
     height: auto;
 }
 
 .conference-photo img {
-    width: 50px;
+    width: 150px;
     height: auto;
 }
 .bio {
